@@ -1,10 +1,10 @@
  Hi, I'm Nishika 👋
 
-🎓 MBA Student (Business Analytics & Finance)  
+🎓MBA Student (Business Analytics & Finance)  
 📊 Aspiring Business Intelligence Analyst  
 📍 India  
 
-## 🚀 About Me
+##  About Me
 I am passionate about transforming raw data into meaningful business insights.
 I have hands-on experience in:
 
@@ -14,14 +14,14 @@ I have hands-on experience in:
 - Business Analysis & Requirement Gathering
 - Deloitte Virtual Job Simulation (Data Analytics)
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - Power BI
 - SQL (MySQL)
 - MS Excel
 - PowerPoint
   
 
-## 📊 Featured Projects
+##  Featured Projects
 
 🔹 Sales Dashboard in Power BI  
 - Built interactive dashboard to analyze regional performance  
@@ -36,21 +36,8 @@ I have hands-on experience in:
 - Process mapping  
 - KPI Identification  
 
-## 📫 Connect With Me
+##  Connect With Me
 LinkedIn: (https://www.linkedin.com/in/nishika-bhargava-758708254/)
 Email: (bhargavanishika16@gmail.com)
 
-<!--
-**nishika-analytics/nishika-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
